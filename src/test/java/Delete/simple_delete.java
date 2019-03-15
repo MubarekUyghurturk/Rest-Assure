@@ -18,7 +18,7 @@ public class simple_delete {
         requestParam.put("name","muhtar");
         requestParam.put("id","1994");
         given().header("Content-Type","application/json")
-                .body(requestParam.toJSONString()).put("https://reqres.in/api/users/2")
+                .body(requestParam.toJSONString()).delete("https://reqres.in/api/users/2")
                 .prettyPrint();
 
 
