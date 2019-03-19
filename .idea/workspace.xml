@@ -4,7 +4,15 @@
     <list default="true" id="49844bd6-fac3-48ac-a005-92f7baa8f691" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Delete/simple_delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Delete/simple_delete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PutRequest/simple_put.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PutRequest/simple_put.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/getRequests/Base_URL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/getRequests/Base_URL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/getRequests/Validation_ImportStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/getRequests/Validation_ImportStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/getRequests/getData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/getRequests/getData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Delete/simple_delete.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Delete/simple_delete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PutRequest/simple_put.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PutRequest/simple_put.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/getRequests/Base_URL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/getRequests/Base_URL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/getRequests/Validation_ImportStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/getRequests/Validation_ImportStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/getRequests/getData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/getRequests/getData.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,13 +25,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Delete/simple_delete.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/getData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="20" column="88" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="88" />
+            <state relative-caret-position="30">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/Validation_ImportStatic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/Base_URL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PutRequest/simple_put.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="47" column="70" selection-start-line="47" selection-start-column="70" selection-end-line="47" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Delete/simple_delete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -44,12 +97,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/getRequests/Post_Delete_Put.java" />
-        <option value="$PROJECT_DIR$/src/test/java/getRequests/getData.java" />
         <option value="$PROJECT_DIR$/src/test/java/getRequests/AddingValues.java" />
-        <option value="$PROJECT_DIR$/src/test/java/getRequests/Validation_ImportStatic.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PutRequest/simple_put.java" />
-        <option value="$PROJECT_DIR$/src/test/java/getRequests/Base_URL.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/getRequests/getData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/getRequests/Validation_ImportStatic.java" />
+        <option value="$PROJECT_DIR$/src/test/java/getRequests/Base_URL.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PutRequest/simple_put.java" />
         <option value="$PROJECT_DIR$/src/test/java/Delete/simple_delete.java" />
       </list>
     </option>
@@ -63,9 +116,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="y" value="-11" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="y" value="-13" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -73,8 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,16 +165,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="getRequests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssure_FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssure_FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="PutRequest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552652501695" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552659680078" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +199,7 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.simple_delete.Test2">
-    <configuration name="AddingValues.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Validation_ImportStatic.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssure_FrameWork" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +208,44 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="getRequests" />
-      <option name="MAIN_CLASS_NAME" value="getRequests.AddingValues" />
+      <option name="MAIN_CLASS_NAME" value="getRequests.Validation_ImportStatic" />
       <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Validation_ImportStatic.Test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssure_FrameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getRequests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getRequests" />
+      <option name="MAIN_CLASS_NAME" value="getRequests.Validation_ImportStatic" />
+      <option name="METHOD_NAME" value="Test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Validation_ImportStatic.Test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssure_FrameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getRequests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getRequests" />
+      <option name="MAIN_CLASS_NAME" value="getRequests.Validation_ImportStatic" />
+      <option name="METHOD_NAME" value="Test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -192,49 +289,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="simple_put.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssure_FrameWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PutRequest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="PutRequest" />
-      <option name="MAIN_CLASS_NAME" value="PutRequest.simple_put" />
-      <option name="METHOD_NAME" value="Test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="simple_put.Test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssure_FrameWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PutRequest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="PutRequest" />
-      <option name="MAIN_CLASS_NAME" value="PutRequest.simple_put" />
-      <option name="METHOD_NAME" value="Test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.simple_delete.Test2" />
         <item itemvalue="TestNG.simple_put.Test0" />
-        <item itemvalue="TestNG.simple_put.Test1" />
-        <item itemvalue="TestNG.simple_put.Test2" />
-        <item itemvalue="TestNG.AddingValues.Test1" />
+        <item itemvalue="TestNG.Validation_ImportStatic.Test3" />
+        <item itemvalue="TestNG.Validation_ImportStatic.Test1" />
+        <item itemvalue="TestNG.Validation_ImportStatic.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -252,42 +313,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="simple_put_Test0 - 2019.03.15 at 07h 48m 55s.xml">
+    <history-entry file="Validation_ImportStatic_Test3 - 2019.03.15 at 08h 48m 16s.xml">
+      <configuration name="Validation_ImportStatic.Test3" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="simple_put_Test0 - 2019.03.15 at 08h 52m 40s.xml">
       <configuration name="simple_put.Test0" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="simple_put_Test0 - 2019.03.15 at 07h 49m 25s.xml">
+    <history-entry file="simple_put_Test0 - 2019.03.15 at 08h 53m 49s.xml">
       <configuration name="simple_put.Test0" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="simple_put_Test0 - 2019.03.15 at 07h 50m 02s.xml">
+    <history-entry file="simple_put_Test0 - 2019.03.15 at 08h 55m 24s.xml">
       <configuration name="simple_put.Test0" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="simple_put_Test1 - 2019.03.15 at 07h 50m 50s.xml">
-      <configuration name="simple_put.Test1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="simple_put_Test1 - 2019.03.15 at 07h 51m 14s.xml">
-      <configuration name="simple_put.Test1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="simple_put_Test0 - 2019.03.15 at 07h 52m 53s.xml">
-      <configuration name="simple_put.Test0" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="simple_put_Test0 - 2019.03.15 at 07h 53m 11s.xml">
-      <configuration name="simple_put.Test0" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="simple_delete_Test2 - 2019.03.15 at 08h 20m 31s.xml">
+    <history-entry file="simple_delete_Test2 - 2019.03.15 at 09h 03m 01s.xml">
       <configuration name="simple_delete.Test2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="simple_delete_Test2 - 2019.03.15 at 08h 21m 02s.xml">
+    <history-entry file="simple_delete_Test2 - 2019.03.15 at 09h 28m 17s.xml">
       <configuration name="simple_delete.Test2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="simple_delete_Test2 - 2019.03.15 at 08h 21m 21s.xml">
+    <history-entry file="simple_delete_Test2 - 2019.03.15 at 09h 28m 48s.xml">
+      <configuration name="simple_delete.Test2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="simple_delete_Test2 - 2019.03.15 at 09h 29m 08s.xml">
+      <configuration name="simple_delete.Test2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="simple_delete_Test2 - 2019.03.15 at 09h 31m 29s.xml">
+      <configuration name="simple_delete.Test2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="simple_delete_Test2 - 2019.03.15 at 09h 32m 22s.xml">
       <configuration name="simple_delete.Test2" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="888" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25870648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -296,7 +356,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4385246" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15846995" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -316,26 +376,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/Post_Delete_Put.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/getData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/Post_Delete_Put.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.3.0/rest-assured-3.3.0.jar!/io/restassured/RestAssured.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -368,10 +409,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/AddingValues.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/AddingValues.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/getData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -381,51 +430,37 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/Validation_ImportStatic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding>
-            <element signature="e#369#370#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/getRequests/Base_URL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="510">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PutRequest/simple_put.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="23" column="88" lean-forward="true" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+        <state relative-caret-position="1110">
+          <caret line="47" column="70" selection-start-line="47" selection-start-column="70" selection-end-line="47" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Delete/simple_delete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="20" column="88" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
         </state>
       </provider>
     </entry>

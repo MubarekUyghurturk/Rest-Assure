@@ -12,10 +12,15 @@ public class getData {
     @Test
     public void Test1() {
         Response resp= RestAssured.get("https://www.google.com");   // to get the URL
-        System.out.println("Response time: "+resp.getTime());
         int code=resp.getStatusCode();  // status shown on the postman
-        System.out.println("Status code is "+code);
+
         Assert.assertTrue(code==200);
+
+        System.out.println("Response time: "+resp.getTime());
+        System.out.println(resp.headers());
+        System.out.println(resp.asString());
+        System.out.println(resp.prettyPrint());
+        System.out.println(resp.cookies());
     }
 
     @Test

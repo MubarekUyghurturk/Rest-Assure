@@ -19,14 +19,11 @@ public class Base_URL {
     public void Test1(){
 
         Response resp=RestAssured.get("/books?uid=101709087897462068872&hl=en");
-        int i=resp.getStatusCode();
+             int i=resp.getStatusCode();
         System.out.println(i);
-
        Assert.assertTrue( resp.body().prettyPrint().toLowerCase().contains("rent and"));
   //      when().get("/books").then().statusCode(200);
-
     }
-
     @Test
     public void Test2(){
         Response resp=RestAssured.get("/image");

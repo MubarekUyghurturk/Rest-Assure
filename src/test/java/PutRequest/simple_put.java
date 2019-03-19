@@ -3,13 +3,13 @@ package PutRequest;
 
 import io.restassured.path.json.JsonPath;
 import io.restassured.specification.RequestSpecification;
+import org.hamcrest.Matchers;
 import org.json.simple.JSONObject;
 import org.testng.annotations.BeforeMethod;
 import io.restassured.RestAssured;
 import static  io.restassured.RestAssured.*;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
-import static org.hamcrest.Matchers.*;
 
 public class simple_put {
     @BeforeMethod
@@ -20,9 +20,19 @@ public class simple_put {
     @Test
     public void Test0(){
         JSONObject requestParam=new JSONObject();
-        given().header("Content-Type","application/json")
-                .body(requestParam.toJSONString()).post("https://reqres.in/api/users/2")
-                .prettyPrint();
+
+        RequestSpecification request=RestAssured.given();
+        request.header("Content-Type","application/json");
+
+        request.body(requestParam.toJSONString());
+        Response respon=request.post("https://reqres.in/api/users/2");
+
+        respon.prettyPrint();
+
+//        given().header("Content-Type","application/json")
+//                .body(requestParam.toJSONString()).put("https://reqres.in/api/users/2")
+//                .prettyPrint();      // put and post
+
     }
 
     @Test
@@ -38,7 +48,7 @@ public class simple_put {
         Response respon=request.post("https://reqres.in/api/users/2");
 
         respon.prettyPrint();
-        respon.then().body("first_name",equalTo("mamat"));
+        respon.then().body("first_name", Matchers.equalTo("mamat"));
 
         // import static org.hamcrest.Matchers.*;
     }
